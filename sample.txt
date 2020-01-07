@@ -1,2 +1,6 @@
 I am first line from azure vm
+<<<<<<< HEAD
 Second line from windows
+=======
+Line added from Azure
+>>>>>>> azure
