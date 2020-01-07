@@ -1,1 +1,2 @@
 I am first line from azure vm
+Second line from windows
